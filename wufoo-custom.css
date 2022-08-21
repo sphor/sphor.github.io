@@ -6,6 +6,22 @@
 .wufoo input.text{
   border-radius: 25px; 
   padding: 10px 20px;
-  margin: 8px 0;
   box-sizing: border-box;
+}
+
+.wufoo textarea.textarea{
+  border-radius: 25px; 
+}
+
+.wufoo input.btTxt{
+  border-radius: 25px;
+  padding: 10px 20px;
+  background: #fff;
+  color: initial;
+  border: none;
+  cursor: pointer;
+}
+
+.wufoo input.btTxt:hover{
+  border: 1px solid initial;
 }
