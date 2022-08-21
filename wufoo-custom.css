@@ -1,3 +1,11 @@
+.embed #container{
+  padding: 20px;
+  box-sizing: border-box;
+}
+
 .wufoo input.text{
   border-radius: 25px; 
+  padding: 10px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
 }
